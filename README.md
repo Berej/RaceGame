@@ -1,4 +1,4 @@
 # RaceGame
 RaceGame - libGDX project
 
-APK file is located in 'res/'
+Check releases for apk file
